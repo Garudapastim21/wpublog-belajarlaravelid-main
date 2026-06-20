@@ -60,7 +60,7 @@
 
         <a href="#"
             class="bg-[#56c1d0] hover:bg-[#45a4b2] text-white font-bold py-4 px-10 rounded-lg text-lg transition duration-300 ease-in-out shadow-lg flex items-center justify-center gap-2">
-            Let's Binyunus Toserba again
+            Let's Binyunus Toserba
         </a>
 
     </main>
